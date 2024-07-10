@@ -1,8 +1,8 @@
 package conflict.program;
 
 public class TestConflict {
-	void display(){
-		System.out.println("hello md shahbaz khan");
+	void feature() {
+		System.out.println(" i am feature 3");
 	}
 	
 public static void main(String[] args) {
